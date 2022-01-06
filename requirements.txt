@@ -1,3 +1,4 @@
 pyvis
 sparqlwrapper
 pandas
+vantage6-client==2.1.2
